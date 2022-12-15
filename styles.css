@@ -436,11 +436,11 @@ html {
 }
 
 iframe {
-    width: 1000;
-    height: 1000;
+    width: 1000px;
+    height: 700px;
     margin: 0 auto;
     background-color: #777;
     display: block;
     border-style:none;
-    margin-left: 300px;
+    margin-left: 100px;
 }
