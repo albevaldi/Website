@@ -154,6 +154,14 @@ html {
     color: #fff;
 }
 
+.main__content pTest{
+    white-space: nowrap;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+}
+
 .main__btn{
     font-size: 1rem;
     background-image: radial-gradient(#ff8a00, #e52e71);
@@ -358,11 +366,20 @@ iframe {
 }
 
 #content-wrap {
-    padding-bottom: 2.5rem
+    padding-bottom: 2.5rem;
 }
 
 #footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+.footer_right {
+    font-size: 1rem;
+    margin-right: 1;
+}
+.footer_socials {
+    font-size: 2rem;
+    margin-right: 1;
 }
