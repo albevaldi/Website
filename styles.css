@@ -343,11 +343,12 @@ html {
     -moz-text-fill-color: transparent;
 }
 
-.main__contentP p{
+.main__contentP p {
     margin-top: 0rem;
     font-size: 1.5rem;
     font-weight: 700;
     color: #fff;
+    white-space: normal;
 }
 
 iframe {
